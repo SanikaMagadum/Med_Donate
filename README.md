@@ -47,27 +47,14 @@ The primary goal of this project is to:
    cd medicine-donation-portal
    ```
 
-2. **Install Dependencies:**
+
+2. **Run the Application:**
    - Backend:
      ```bash
-     pip install -r requirements.txt
-     ```
-   - Frontend:
-     ```bash
-     npm install
+     MYSQL using xampp server
      ```
 
-3. **Run the Application:**
-   - Backend:
-     ```bash
-     python manage.py runserver
-     ```
-   - Frontend:
-     ```bash
-     npm start
-     ```
-
-4. Access the application on your browser at `http://localhost:8000`.
+3. Access the application on your browser at `http://localhost:8000`.
 
 ---
 
