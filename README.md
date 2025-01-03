@@ -85,4 +85,4 @@ The primary goal of this project is to:
 ## Contact
 For queries or feedback, please reach out to:
 - Email: sanikamagadumm2004@gmail.com.com
-- GitHub:(https://github.com/ySanikaMagadum)
+- GitHub:(https://github.com/SanikaMagadum)
